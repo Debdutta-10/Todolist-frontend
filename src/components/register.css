@@ -1,0 +1,10 @@
+@media only screen and (max-width: 729px){
+    .reg-cont{
+        margin: auto;
+        width: 90%;
+    }
+    .mob-but{
+        margin: auto;
+        width: 70%;
+    }
+}

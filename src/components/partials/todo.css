@@ -1,0 +1,13 @@
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media only screen and (max-width: 729px){
+    .mob-todo{
+        margin: auto !important;
+        width: 90%;
+        margin-bottom: 30px !important;
+    }
+}
